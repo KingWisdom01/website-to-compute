@@ -1,12 +1,12 @@
 {
-  "name": "website-to-compute",
-  "version": "0.0.1",
+  "name": "blockguard-api",
+  "version": "1.0.0",
+  "main": "index.js",
   "scripts": {
-    "start": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies": {
-    "vite": "^6.2.2"
-  }
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
