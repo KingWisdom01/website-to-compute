@@ -1,13 +1,8 @@
 {
-  "name": "website-to-compute",
-  "version": "0.0.1",
+  "name": "blockguard-api",
+  "version": "1.0.0",
   "scripts": {
-    "start": "node index.js",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "devDependencies": {
-    "vite": "^6.2.2"
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "^5.1.0"
